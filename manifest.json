@@ -1,6 +1,6 @@
 {
-  "name": "GCUI-GA Map",
-  "short_name": "GCUI-GA",
+  "name": "Grassland Classification Map",
+  "short_name": "GCUI",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
